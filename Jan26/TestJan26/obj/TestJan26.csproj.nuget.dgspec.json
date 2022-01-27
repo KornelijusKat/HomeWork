@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\TestJan26.csproj": {}
+    "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\TestJan26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\Jan26.csproj": {
+    "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\Jan26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\Jan26.csproj",
+        "projectUniqueName": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\Jan26.csproj",
         "projectName": "Jan26",
-        "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\Jan26.csproj",
+        "projectPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\Jan26.csproj",
         "packagesPath": "C:\\Users\\Kornelijus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\obj\\",
+        "outputPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kornelijus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\TestJan26.csproj": {
+    "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\TestJan26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\TestJan26.csproj",
+        "projectUniqueName": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\TestJan26.csproj",
         "projectName": "TestJan26",
-        "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\TestJan26.csproj",
+        "projectPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\TestJan26.csproj",
         "packagesPath": "C:\\Users\\Kornelijus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\obj\\",
+        "outputPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kornelijus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\Jan26.csproj": {
-                "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\Jan26\\Jan26.csproj"
+              "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\Jan26.csproj": {
+                "projectPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\Jan26\\Jan26.csproj"
               }
             }
           }

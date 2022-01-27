@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AgEhzYwzoVgkatVWBdpG8JG9i5I8rY2ZO36PpH7ajFL2ESdzQ4EPmM35XTFpRA5584BUZNeTNTxJNBzwaI9I8Q==",
+  "dgSpecHash": "M5ufEhuWxO4n4RFBGx+jqVMz6y9sLB5sVMfHa8tkBO1iXgJrvzltYP0XAVSJCWoRsRA0iLRP2fWWN42BsElWdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kornelijus\\source\\repos\\Jan26\\TestJan26\\TestJan26.csproj",
+  "projectFilePath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\SendHelp\\Jan26\\TestJan26\\TestJan26.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kornelijus\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Kornelijus\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

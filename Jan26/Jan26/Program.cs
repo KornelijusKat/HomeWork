@@ -19,6 +19,7 @@ namespace Jan26
             good.AddHealthyAddition1();
             good.AddHealthyAddition2();
             Console.WriteLine($"total burger price {good.ItemizeHamburger()}");
+            Console.WriteLine("Github test");
 
         }
     }
