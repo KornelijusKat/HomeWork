@@ -1,0 +1,3 @@
+Rududu,3.00,A-158723,10,Brown sugar
+Jawbreaker,2.00,A-158724,12,Palm sugar
+Tictac,1.50,A-126798,10,Processed sugar
