@@ -90,7 +90,7 @@ namespace Jan27
             smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtpClient.Port = 587;
 
-            smtpClient.Credentials = new NetworkCredential { UserName = "codeacadtest@gmail.com", Password = "Xoworeu17" };
+            smtpClient.Credentials = new NetworkCredential { UserName = "codeacadtest@gmail.com", Password = "" };
             smtpClient.EnableSsl = true;
 
 
