@@ -24,7 +24,7 @@ namespace Jan27
         {
             MeniuList = new List<Goods>();
         }
-        public bool Meniu(decimal Money)
+        public void Meniu(decimal Money)
         {        
             while (true)
                 {
